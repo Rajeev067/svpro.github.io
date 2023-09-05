@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>f1 Web Page</title>
+
 </head>
 <body>
 
@@ -39,5 +39,4 @@
   </tr>	
 </table>	
 
-</body>
-</html>
+
